@@ -1,0 +1,35 @@
+body{
+    background: #F4F4F4;
+}
+.current-container h3{
+    background: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.permitButton{
+    background-color: #25DA25;
+    color: white;
+    border: none;
+}
+
+.returnButton{
+    background-color: #DA2525;
+    color: white;
+    border: none;
+}
+
+.table-container{
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    box-shadow: 2px 2px 10px 0px;
+}
+nav{
+    
+    background: black!important;
+}
+.navbar{
+    border-radius: 0px!important;
+}

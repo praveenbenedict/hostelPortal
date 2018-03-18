@@ -1,0 +1,69 @@
+/*First Page*/
+body{
+    overflow-x: hidden;
+}
+#selection { 
+    background: url(../images/college.jpg);
+    background-repeat: no-repeat!important;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh!important;
+    background-attachment: fixed;
+}
+
+h1,h2{
+    color: white;
+    text-align: center;
+}
+.rightSide{
+    margin-top: 7%;
+    border: 1px solid #888;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.forms{
+    color: white;
+    width: auto!important;
+    height: auto!important;
+    text-align: center;   
+}
+
+ input[type=text], input[type=password] {
+    width: 250px; 
+    padding: 12px 20px; 
+    margin: 8px 0;
+    background: white; 
+    color: black!important;
+} 
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    margin: 8px 0;
+    border: none;
+    height: 35px!important;
+    padding-left : 50px!important; 
+    padding-right : 50px!important;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+.avatar {
+        width:  150px;
+        height: 150px;
+}
+
+.form-block {
+    background-color: transparent!important;
+    text-align: center!important;
+    align-content: center!important;
+}
